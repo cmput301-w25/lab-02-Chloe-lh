@@ -3,12 +3,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Chloe Haynes`
+- **CCID:** `Chloehay`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `N/A` if not applicable. 
+https://www.tutorialspoint.com/how-to-handle-the-click-event-in-listview-in-android
+https://www.geeksforgeeks.org/how-to-dynamically-add-elements-to-a-listview-in-android/
 
 ## Verbal Collaboration
 
